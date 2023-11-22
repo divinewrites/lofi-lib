@@ -48,6 +48,6 @@ Feel free to contribute by opening issues or submitting pull requests. Your feed
 
 ONLY TO BE USED FOR EDUCATIONAL / DEMONSTRATIONAL PURPOSES
 
-Please remember that this website is providing this data for free out of the goodness of their heart. Don't Take Advantage!
+Please remember that this website is providing this music for free out of the goodness of their heart. Don't Take Advantage!
 
 Enjoy lofi music with lofi-lib! 🎧😝
